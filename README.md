@@ -1,1 +1,1 @@
-# DynamicRecyclviewAdapter
+# DynamicRecyclerViewAdapter
